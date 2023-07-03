@@ -27,12 +27,12 @@ const Topbar = () => {
                     <div>
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto flex items-center justify-center hover:cursor-pointer">
-                            <Link to="home" spy={true} smooth={true} offset={0} duration={500}><span className='text-white mr-4 hover:cursor-pointer'>Home</span></Link>
-                            <Link to="about" spy={true} smooth={true} offset={0} duration={500}><span className='text-white mr-4 hover:cursor-pointer'>About</span></Link>
-                            <Link to="message" spy={true} smooth={true} offset={0} duration={500}><span className='text-white mr-4 hover:cursor-pointer'>Message</span></Link>
-                            <Link to="hostel" spy={true} smooth={true} offset={0} duration={500}><span className='text-white mr-4 hover:cursor-pointer'>Facilities</span></Link>
-                            <Link to="events" spy={true} smooth={true} offset={0} duration={500}><span className='text-white mr-4 hover:cursor-pointer'>Events</span></Link>
-                            <Link to="gallery" spy={true} smooth={true} offset={0} duration={500}><span className='text-white mr-4 hover:cursor-pointer'>Gallery</span></Link>
+                            <Link to="home" spy={true} smooth={true} offset={0} duration={500} className='text-decoration-none'><span className='text-white mr-4 hover:cursor-pointer'>Home</span></Link>
+                            <Link to="about" spy={true} smooth={true} offset={0} duration={500} className='text-decoration-none'><span className='text-white mr-4 hover:cursor-pointer '>About</span></Link>
+                            <Link to="message" spy={true} smooth={true} offset={0} duration={500} className='text-decoration-none'><span className='text-white mr-4 hover:cursor-pointer'>Message</span></Link>
+                            <Link to="hostel" spy={true} smooth={true} offset={0} duration={500} className='text-decoration-none'><span className='text-white mr-4 hover:cursor-pointer'>Facilities</span></Link>
+                            <Link to="events" spy={true} smooth={true} offset={0} duration={500} className='text-decoration-none'><span className='text-white mr-4 hover:cursor-pointer'>Events</span></Link>
+                            <Link to="gallery" spy={true} smooth={true} offset={0} duration={500} className='text-decoration-none'><span className='text-white mr-4 hover:cursor-pointer'>Gallery</span></Link>
                                 {/* About */}
                                 {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown" className='text-white'>
                                     <NavDropdown.Item href="#action/3.1" className='text-white'>Action</NavDropdown.Item>

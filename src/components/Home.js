@@ -8,7 +8,7 @@ const Home = () => {
       <Slider />
       <div className='flex mt-4 items-center justify-center'>
             <img src={Boha_logo} alt="" className='rounded-full h-[80px] w-[80px] mr-4' />
-            <span className='font-bold text-2xl text-white'>Board of Hostel Affairs, IIT ROPAR</span>
+            <span className='font-bold text-[30px] text-white'>Board of Hostel Affairs, IIT ROPAR</span>
       </div>
     </div>
   )
