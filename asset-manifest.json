@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/boha-website-v2/static/css/main.b67c565b.css",
-    "main.js": "/boha-website-v2/static/js/main.5911dfc3.js",
+    "main.css": "/boha-website-v2/static/css/main.03261c58.css",
+    "main.js": "/boha-website-v2/static/js/main.3047dd80.js",
     "static/media/festival4.jpg": "/boha-website-v2/static/media/festival4.040cafc0e21124907df2.jpg",
     "static/media/festival3.jpg": "/boha-website-v2/static/media/festival3.07d161f48b078d130c70.jpg",
     "static/media/festival2.jpg": "/boha-website-v2/static/media/festival2.74501ebb72891f0dbdfa.jpg",
@@ -39,11 +39,11 @@
     "static/media/sutlej.jpg": "/boha-website-v2/static/media/sutlej.09345ecf2b34bf316327.jpg",
     "static/media/IIT_ROPAR.jpg": "/boha-website-v2/static/media/IIT_ROPAR.251097f654f258a71f34.jpg",
     "index.html": "/boha-website-v2/index.html",
-    "main.b67c565b.css.map": "/boha-website-v2/static/css/main.b67c565b.css.map",
-    "main.5911dfc3.js.map": "/boha-website-v2/static/js/main.5911dfc3.js.map"
+    "main.03261c58.css.map": "/boha-website-v2/static/css/main.03261c58.css.map",
+    "main.3047dd80.js.map": "/boha-website-v2/static/js/main.3047dd80.js.map"
   },
   "entrypoints": [
-    "static/css/main.b67c565b.css",
-    "static/js/main.5911dfc3.js"
+    "static/css/main.03261c58.css",
+    "static/js/main.3047dd80.js"
   ]
 }
